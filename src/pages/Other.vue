@@ -1,7 +1,5 @@
 <script setup></script>
 
 <template>
-    <RouterView />
+    <h2>Other Page</h2>
 </template>
-
-<style scoped></style>
